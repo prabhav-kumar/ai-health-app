@@ -1,4 +1,4 @@
-# Medical AI Health Analysis App
+# AI Medical Health Analysis App
 
 A comprehensive Flutter application that leverages state-of-the-art medical AI models and Gemini API intelligence for analyzing various medical imaging modalities. The app integrates with Hugging Face Spaces for model inference and provides an intuitive interface for medical image analysis.
 
