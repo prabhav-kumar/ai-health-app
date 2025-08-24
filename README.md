@@ -1,17 +1,18 @@
-# Medical AI Health Analysis App 🏥
+# Medical AI Health Analysis App
 
-A comprehensive Flutter application that leverages state-of-the-art medical AI models for analyzing various medical imaging modalities. The app integrates with Hugging Face Spaces for model inference and provides an intuitive interface for medical image analysis.
+A comprehensive Flutter application that leverages state-of-the-art medical AI models and Gemini API intelligence for analyzing various medical imaging modalities. The app integrates with Hugging Face Spaces for model inference and provides an intuitive interface for medical image analysis.
 
-## Features 🌟
+## Features
 
 - **Multi-Modal Medical Image Analysis**: Support for various medical imaging types
 - **Real-time AI Analysis**: Powered by 6 specialized medical AI models
+- **Gemini-Powered AI Intelligence**: Context-aware medical insights and assistance
 - **User Authentication**: Secure login with Firebase
 - **Interactive UI**: Modern, responsive design with real-time feedback
 - **Chat Interface**: AI-powered health assistant for additional guidance
 - **Cross-Platform**: Works on Android, iOS, and Web
 
-## AI Models 🧠
+## AI Models
 
 All models are deployed on Hugging Face Spaces and accessible via API. The models include:
 
@@ -45,7 +46,7 @@ All models are deployed on Hugging Face Spaces and accessible via API. The model
    - Provides visual annotations
    - Real-time detection capabilities
 
-## Getting Started 🚀
+## Getting Started
 
 1. Clone the repository
 2. Install Flutter dependencies:
@@ -64,21 +65,22 @@ All models are deployed on Hugging Face Spaces and accessible via API. The model
    GEMINI_API_KEY=your_key_here
    ```
 
-## Model Access 📧
+## Model Access
 
 The model files are not included in this repository due to size constraints. If you need access to the model files for research or development purposes, please contact:
 
 Email: k.prabhav2005@gmail.com
 
-## Technical Details 🔧
+## Technical Details
 
 - **Frontend**: Flutter
 - **Backend**: Hugging Face Spaces
 - **Authentication**: Firebase
+- **Intelligence Layer**: Gemini API
 - **AI Models**: PyTorch, TensorFlow
 - **API Integration**: REST APIs
 
-## Model Training Notebooks 📚
+## Model Training Notebooks
 
 The training code for all models is available in separate repositories:
 - Brain Classification: `brain_classification_code.ipynb`
@@ -86,16 +88,13 @@ The training code for all models is available in separate repositories:
 - Chest Classification: `chest_classification_code.ipynb`
 - Medical Classification: `medical_classification_code.ipynb`
 - Fracture Localization: `fracture_localization_code.ipynb`
+- Diabetic Retinopathy Classification: `retinopathy_classification_code.ipynb`
 
-## Contributing 🤝
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License 📄
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments 👏
+## Acknowledgments
 
 - Thanks to Hugging Face for hosting the models
 - Medical imaging datasets providers
@@ -103,6 +102,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact 📬
 
-Prabhav Kumar - k.prabhav2005@gmail.com
-
-Project Link: [GitHub Repository URL]
+K Prabhav Kumar - k.prabhav2005@gmail.com
