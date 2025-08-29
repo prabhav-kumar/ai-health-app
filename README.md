@@ -100,6 +100,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Medical imaging datasets providers
 - Flutter and Firebase teams
 
-## Contact 📬
+## Contact
 
 K Prabhav Kumar - k.prabhav2005@gmail.com
